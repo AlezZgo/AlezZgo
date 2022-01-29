@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlezZgo
 - 👀 I’m interested in Kotlin, Java, Android studio, 
-- I used to work with c# Unity, c++ Desctop 
+- I used to work with c# Unity, c++ Desktop 
 - 🌱 I’m currently learning Android
 - 📫 How to reach me: 
 -         Email: alez.grante@gmail.com
