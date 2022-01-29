@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @AlezZgo
-- 👀 I’m interested in c# backend dev
-- 🌱 I’m currently learning ASP.NET Core
-- 📫 How to reach me: alez.grante@gmail.com
+- 👀 I’m interested in kotlin Android studio
+- 🌱 I’m currently learning Android 
+- 📫 How to reach me: 
+-         Email: alez.grante@gmail.com
+-         Telegram: https://t.me/AlezZGO
 
 <!---
 AlezZgo/AlezZgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
