@@ -2,7 +2,6 @@
 - 👀 I’m interested in kotlin Android studio, 
 - I used to work with c# Unity, c++ Desctop 
 - 🌱 I’m currently learning Android
--  
 - 📫 How to reach me: 
 -         Email: alez.grante@gmail.com
 -         Telegram: https://t.me/AlezZGO
