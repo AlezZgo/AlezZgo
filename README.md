@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlezZgo
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in Kotlin, Java, Android studio, 
 - I used to work with c# Unity, c++ Qt Desktop 
 - 🌱 I’m currently learning Android
