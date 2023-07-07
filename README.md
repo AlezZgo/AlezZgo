@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander
 - 👀 I’m interested in Kotlin, Java, Android studio, 
 - I used to work with c# Unity, c++ Qt Desktop 
-- 🌱 I’m currently learning Android
+- 🌱 I’m Android developer
 - 📫 How to reach me: 
 -         Email: alez.grante@gmail.com
 -         Telegram: https://t.me/AlezZGO
